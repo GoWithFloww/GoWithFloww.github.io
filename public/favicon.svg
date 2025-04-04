@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>Simplified Horse Head Favicon</title>
+    <!-- Background Fill (Optional - light yellow like original) -->
+    <rect width="64" height="64" fill="#F8F8D8"/>
+
+    <!-- Horse Head & Neck (Dark Grey/Black) -->
+    <path d="M 20,10 C 15,15 12,25 15,35 C 18,45 25,55 35,58 L 40,50 C 35,48 32,42 33,35 C 34,28 40,20 48,15 L 45,8 C 35,12 25,8 20,10 Z" fill="#222222"/>
+
+    <!-- Mane -->
+    <path d="M 38,12 C 45,10 50,15 50,22 C 50,30 45,35 42,38 C 40,35 38,30 38,25 C 38,20 37,15 38,12 Z" fill="#111111"/>
+
+    <!-- Ear -->
+     <path d="M 28,8 L 32,4 L 36,9 C 34,10 30,10 28,8 Z" fill="#222222"/>
+
+    <!-- Eye -->
+    <circle cx="30" cy="26" r="3" fill="#FFFFFF"/>
+    <circle cx="31" cy="26" r="1.5" fill="#000000"/>
+
+    <!-- Simplified Badge (Gold Circle) -->
+    <circle cx="42" cy="45" r="6" fill="#FFD700"/>
+    <circle cx="42" cy="45" r="4" fill="#DAA520"/> <!-- Inner darker gold -->
+     <!-- Simple Smile/Detail on Badge -->
+     <path d="M 40 46 Q 42 48 44 46" stroke="#222222" stroke-width="1" fill="none"/>
+
+  </svg>
